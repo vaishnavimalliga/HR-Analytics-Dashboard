@@ -21,6 +21,7 @@
   Power BI(Dashboard with charts, slicers, kPI's)
 
 **Screenshot:**
+  https://github.com/vaishnavimalliga/HR-Analytics-Dashboard/blob/main/Screenshot%20of%20HR%20dashboard.png
   
   
   
